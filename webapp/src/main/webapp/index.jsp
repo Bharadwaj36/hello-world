@@ -1,4 +1,4 @@
-<h1> Hello, latest code changes redeployed to Canada Store </h1>
+<h1> Hello, latest code changes redeployed in version2 </h1>
 
 <h2> UI changes deployed </h2>
 
